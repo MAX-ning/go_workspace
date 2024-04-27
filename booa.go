@@ -16,3 +16,5 @@ func main() {
 	g, h := 123, "hello"
 	println(x, y, a, b, c, d, e, f, g, h)
 }
+
+import “const”
